@@ -1,0 +1,25 @@
+{
+  "name": "mongomart",
+  "version": "0.1.0",
+  "description": "Ecommerce app Using the MongoDB driver and Express",
+  "main": "mongomart.js",
+  "author": "CGLSOFT Serviços e Tecnologia Ltda",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "express": "~4.16.2",
+    "mongodb": "~3.0.3",
+    "nunjucks": "~3.1.0",
+    "nunjucks-date": "~1.2.0"
+  },
+  "license": "0BSD",
+  "private": true,
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "cglsoft",
+    "claudio"
+  ]
+}
